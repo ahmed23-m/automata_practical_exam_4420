@@ -1,0 +1,13 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+src/Programs/DFA.py
+src/Programs/PDA.py
+src/Programs/Turing_Machine.py
+src/Programs/__init__.py
+src/Theory_Of_Computation_Automata_Package.egg-info/PKG-INFO
+src/Theory_Of_Computation_Automata_Package.egg-info/SOURCES.txt
+src/Theory_Of_Computation_Automata_Package.egg-info/dependency_links.txt
+src/Theory_Of_Computation_Automata_Package.egg-info/requires.txt
+src/Theory_Of_Computation_Automata_Package.egg-info/top_level.txt

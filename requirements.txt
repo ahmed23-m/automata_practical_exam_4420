@@ -1,0 +1,3 @@
+# Requirements To Use the "Theory Of Computation Automata Package"
+```txt
+pytest>=7.0
