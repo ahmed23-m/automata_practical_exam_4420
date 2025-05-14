@@ -30,7 +30,12 @@ TuringMachine("0101").run()        # Returns "Accepted"
 ```bash
 python -m pytest Tests/
 ```
-
+## Python Package (toc-automata-package-a23 V0.1.0)
+Link: https://test.pypi.org/project/toc-automata-package-a23/0.1.0/
+### Install Package
+```
+pip install -i https://test.pypi.org/simple/ toc-automata-package-a23==0.1.0
+```
 ## Installation
 ```bash
 pip install -r requirements.txt
